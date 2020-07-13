@@ -1,3 +1,12 @@
+<h1 align="center">Aditya Raman</h1>
+<p align="center">
+  <a href="https://twitter.com/_adityaraman"><img src="https://img.shields.io/badge/-@_adityaraman-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_adityaraman" width="21%"/></a>
+  <a href="https://www.linkedin.com/in/ramanaditya/"><img src="https://img.shields.io/badge/-ramanaditya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanaditya/" width="17%"/></a>
+  <a href="https://medium.com/@ramanaditya/"><img src="https://img.shields.io/badge/-@ramanaditya-000000?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@ramanaditya/" width="20%"/></a>
+  <a href="mailto:adityaraman96@gmail.com"><img src="https://img.shields.io/badge/-adityaraman96@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adityaraman96@gmail.com" width="31%"/></a>
+</p>
+<hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="20%">
   <br><br>
