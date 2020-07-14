@@ -27,10 +27,10 @@
 </p>
 <br><br>
 <p align="center">
-    <img src="images/cloud/azure.png" width="40%">
-    <img src="images/cloud/gcp.png" width="20%">
-    <img src="images/cloud/aws.png" width="20%">
-    <img src="images/cloud/digitalocean.png" width="15%">
+    <img src="images/cloud/azure.png" width="35%">
+    <img src="images/cloud/gcp.png" width="17%">
+    <img src="images/cloud/aws.png" width="25%">
+    <img src="images/cloud/digitalocean.png" width="12%">
 </p>
 
 - 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
