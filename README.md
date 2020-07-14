@@ -13,9 +13,9 @@
   <samp>
     :wave: Hi! I build <b>Applications</b>
     <br>I work as a <em><b>Back End Developer</b></em> at :office: <b>KonfHub Technologies LLP</b>
-      <br>Active <em>Microsoft Student Partners (beta)</em>
+      <br>Active <em>Microsoft Student Partner (beta)</em>
     <br> :heart: <em>Open Source</em> Enthusiast :octocat: <br><br>
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/_adityaraman">Twitter</a>
+    <br><br>
   </samp>
 </p>
 
