@@ -21,16 +21,16 @@
 
 <h2>Skills</h2>
 <p align="center">
-    <img src="images/programing-language/python.png">
-    <img src="images/programing-language/javascript.png">
-    <img src="images/programing-language/dart.png">
+    <img src="images/programing-language/python.png" width="30%">
+    <img src="images/programing-language/javascript.png" width="15%">
+    <img src="images/programing-language/dart.png" width="30%">
 </p>
 <br><br>
 <p align="center">
-    <img src="images/cloud/aws.png">
-    <img src="images/cloud/gcp.png">
-    <img src="images/cloud/azure.png">
-    <img src="images/cloud/digitalocean.png">
+    <img src="images/cloud/azure.png" width="40%">
+    <img src="images/cloud/gcp.png" width="20%">
+    <img src="images/cloud/aws.png" width="20%">
+    <img src="images/cloud/digitalocean.png" width="15%">
 </p>
 
 - 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
