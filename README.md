@@ -13,12 +13,12 @@
   <samp>
     :wave: Hi! I build <b>Applications</b>
     <br>I work as a <em><b>Back End Developer</b></em> at :office: <b>KonfHub Technologies LLP</b>
-      <br>Active <em>Microsoft Student Partner (beta)</em>
+      <br>Active <em><strong>Microsoft Student Partner (beta)</strong></em>
     <br> :heart: <em>Open Source</em> Enthusiast :octocat: <br><br>
   </samp>
 </p>
 
 - 🔭 I’m currently working on **AWS**, **NodeJs**, **Django**, **GraphQL**
 - 🌱 I’m developing skills in **Data Science**
-- 👯 I’m looking to collaborate on _Open Source_ and _Personal_ projects.
+- 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 
