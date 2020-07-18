@@ -18,23 +18,20 @@
     <br><br>
   </samp>
 </p>
-
-<h2>Skills</h2>
-<p align="center">
-    <img src="images/programing-language/python.png">
-    <img src="images/programing-language/javascript.png">
-    <img src="images/programing-language/dart.png">
-</p>
 <br><br>
 <p align="center">
-    <img src="images/cloud/aws.png">
-    <img src="images/cloud/gcp.png">
-    <img src="images/cloud/azure.png">
-    <img src="images/cloud/digitalocean.png">
+    <img src="images/programing-language/pogramming.png">
 </p>
-
+<p align="center">
+    <img src="images/cloud/cloud.png">
+</p>
+<p align="center">
+    <img src="images/api/api.png">
+</p>
+<!---
 - 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on _Open Source_ and _Personal_ projects.
 - 📫 How to reach me: adityaraman96@gmail.com
 
+-->
