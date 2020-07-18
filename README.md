@@ -20,12 +20,12 @@
 </p>
 <br><br>
 <p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/programing-language/programming.png" width="49%">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png" width="49%">
-</p>
-<br>
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/prog-data.png">
+    </p>
+    <br>
 <p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/api/api.png">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png" width="49%">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/api/api.png" width="49%">
 </p>
 <!---
 - 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
