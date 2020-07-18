@@ -8,18 +8,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="20%">
+  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
   <br><br>
   <samp>
     :wave: Hi! I build <b>Applications</b>
     <br>I work as a <em><b>Back End Developer</b></em> at :office: <b>KonfHub Technologies LLP</b>
       <br>Active <em>Microsoft Student Partner (beta)</em>
     <br> :heart: <em>Open Source</em> Enthusiast :octocat: <br><br>
-    <br><br>
   </samp>
 </p>
-<br>
-
 
 - 🔭 I’m currently working on **AWS**, **NodeJs**, **Django**, **GraphQL**
 - 🌱 I’m developing skills in **Data Science**
