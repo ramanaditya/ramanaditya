@@ -20,11 +20,8 @@
 </p>
 <br><br>
 <p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/programing-language/programming.png">
-</p>
-<br>
-<p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/programing-language/programming.png" width="49%">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png" width="49%">
 </p>
 <br>
 <p align="center">
