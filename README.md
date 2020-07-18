@@ -18,19 +18,10 @@
     <br><br>
   </samp>
 </p>
-<br><br>
-<p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/prog-data.png">
-    </p>
-    <br>
-<p align="center">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png" width="49%">
-    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/api/api.png" width="49%">
-</p>
-<!---
-- 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on _Open Source_ and _Personal_ projects.
-- 📫 How to reach me: adityaraman96@gmail.com
+<br>
 
--->
+
+- 🔭 I’m currently working on **AWS**, **NodeJs**, **Django**, **GraphQL**
+- 🌱 I’m developing skills in **Data Science**
+- 👯 I’m looking to collaborate on _Open Source_ and _Personal_ projects.
+
