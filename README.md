@@ -20,13 +20,15 @@
 </p>
 <br><br>
 <p align="center">
-    <img src="images/programing-language/pogramming.png">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/programing-language/programming.png">
 </p>
+<br>
 <p align="center">
-    <img src="images/cloud/cloud.png">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/cloud/cloud.png">
 </p>
+<br>
 <p align="center">
-    <img src="images/api/api.png">
+    <img src="https://github.com/ramanaditya/ramanaditya/blob/master/images/api/api.png">
 </p>
 <!---
 - 🔭 I’m currently working on AWS, NodeJs, Django, Flutter
