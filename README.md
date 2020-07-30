@@ -18,6 +18,6 @@
   </samp>
 </p>
 
-- 🔭 I’m currently working on **AWS**, **NodeJs**, **Django**, **GraphQL**, **Serverless**
+- 🔭 I’m currently working on **GCP**, **AWS**, **NodeJs**, **Django**, **GraphQL**, **Serverless**
 - 🌱 I’m developing skills in **Data Science** and **Machine Learning**
 - 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
