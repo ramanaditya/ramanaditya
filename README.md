@@ -21,4 +21,3 @@
 - 🔭 I’m currently working on **AWS**, **NodeJs**, **Django**, **GraphQL**
 - 🌱 I’m developing skills in **Data Science**
 - 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
-
