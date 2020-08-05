@@ -13,7 +13,7 @@
   <samp>
     :wave: Hi! I build <b>Applications</b>
     <br>I work as a <em><b>Back End Developer</b></em> at :office: <b>KonfHub Technologies LLP</b>
-      <br>Active <em><strong>Microsoft Student Partner (beta)</strong></em>
+      <br>Active <em><strong>Microsoft Learn Student Ambassador</strong></em>
     <br> :heart: <em>Open Source</em> :octocat: <br><br>
   </samp>
 </p>
