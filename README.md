@@ -11,14 +11,14 @@
   <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
   <br><br>
   <samp>
-    :wave: Hi! I build <b>Applications</b>
-    <br>I work as a <em><b>Back End Developer</b></em> at :office: <b>KonfHub Technologies LLP</b>
+    :wave: Hi! I build <b>Softwares</b>
+    <br>I am looking for the <b>work</b> or <b>internships</b> for the role <b>Software Developer</b>.
       <br>Active <em><strong>Microsoft Learn Student Ambassador</strong></em>
     <br> :heart: <em>Open Source</em> :octocat: <br><br>
   </samp>
 </p>
 
-- 🔭 I’m currently working on **GCP**, **AWS**, **NodeJs**, **Django**, **GraphQL**, **Serverless**
+- 🔭 I’m currently working on **GraphQL**, **Serverless**, **DevOps**
 - 🌱 I’m developing skills in **Data Science** and **Machine Learning**
 - 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 
