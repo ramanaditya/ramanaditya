@@ -12,7 +12,7 @@
   <br><br>
   <samp>
     :wave: Hi! I build <b>Softwares</b>
-    <br>I am looking for the <b>work</b> or <b>internships</b> for the role of <b>Software Developer</b>.
+    <br>I am looking for the <b>work</b> or <b>internship</b> for the role of <b>Software Developer</b>.
       <br>Active <em><strong>Microsoft Learn Student Ambassador</strong></em>
     <br> :heart: <em>Open Source</em> :octocat: <br><br>
   </samp>
