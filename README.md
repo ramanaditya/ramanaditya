@@ -7,6 +7,7 @@
   <a href="mailto:adityaraman96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-adityaraman96@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adityaraman96@gmail.com" width="25%"/></a>
 </p>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
   <br><br>
