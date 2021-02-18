@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://www.ramanaditya.com">Aditya Raman</a></h1>
+<h1 align="center"><a href="http://ramanaditya.com">Aditya Raman</a></h1>
 <p align="center">
   <a href="https://twitter.com/_adityaraman" target="_blank"><img src="https://img.shields.io/badge/-@_adityaraman-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_adityaraman" width="17%"/></a>
   <a href="https://medium.com/@ramanaditya/" target="_blank"><img src="https://img.shields.io/badge/-@ramanaditya-000000?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@ramanaditya/" width="16%"/></a>
