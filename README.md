@@ -9,24 +9,25 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
+  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%" alt="ocatacat">
   <br><br>
   <samp>
-    :wave: Hi! I build <b>Softwares</b>
-    <br>I am looking for the <b>work</b> or <b>internship</b> for the role of <b>Software Developer</b>.
-    <br>Active <em><strong>Gold Microsoft Learn Student Ambassador</strong></em> | <em><strong>MLH Fellow</strong></em>
+    :wave: Hi! I build <b>Software</b>
+    <br>I am working with <b>@skit</b> as a <b>Software Engineer</b>.
+    <br>A <b>Backend Developer</b> and <b>Software Architect</b>.
     <br> :heart: <em>Open Source</em> :octocat: <br><br>
   </samp>
 </p>
 
 
+- 🏢 worked with <b><a href="https://frrole.ai/" target="_blank">Frrole AI</a></b> and <b><a href="https://humantic.ai/" target="_blank">Humantic AI</a></b>
 - 🔭 I’m currently working on **GraphQL**, **Serverless**, **DevOps**
 - 🌱 I’m developing skills in **Data Science** and **Machine Learning**
 - 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 
 <br>
 
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=ramanaditya&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ramanaditya&hide=CSS,HTML">
 </p>
