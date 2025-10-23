@@ -17,9 +17,9 @@
   <a href="https://medium.com/@ramanaditya" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://gitlab.com/ramanaditya" target="_blank">
+  <!-- <a href="https://gitlab.com/ramanaditya" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
